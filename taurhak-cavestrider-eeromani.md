@@ -53,6 +53,21 @@
 > |Simple|Light|[Cartographer's Tools](#cartographers-tools)|Common|
 > |Martial|Medium||Dwarvish|
 > ||Shields||Orcish|
+>
+> ## Roleplaying Characteristics
+> _**Personality Traits.**_  
+> - I am very fond of antiquities, and love museums.  
+> - I was named after I spent a tenday lost in a mine near my tribe. After I returned I was able to remember every cavern I had discovered.  
+>
+> _**Ideals**_  
+> - I strongly believe ancient things should be enjoyed by everyone. It belongs in a museum!  
+>
+> _**Bonds**_  
+> - I greatly enjoy the outdoors, and would rather be deep in a cave, or wandering a field, then suck in a city. Unless I'm visiting a museum.  
+>
+> _**Flaws**_  
+> - I hate snakes, and will not tolerate them to be near me.
+>
 
 ## Race - Goliath
 _**Little Giant.**_ You have proficiency in the Athletics skill, and you count as one size larger when determining your carrying weight and the weight you can push, drag, or lift.  
