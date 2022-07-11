@@ -101,6 +101,9 @@ _**Hunter's Prey.**_ At 3rd level, you gain one of the following features of you
  - _**Giant Killer.**_ When a Large or larger creature within 5 feet of you hits or misses you with an attack, you can use your reaction to attack that creature immediately after its attack, provided that you can see the creature.
  - _**Horde Breaker.**_ Once on each of your turns when you make a weapon attack, you can make another attack with the same weapon against a different creature that is within 5 feet of the original target and within range of your weapon.
 
+_**Primeval Awareness.**_ Beginning at 3rd level, you can use your action to focus your awareness on the region around you. For the next minute, you can sense whether the following types of creatures are present within 1 mile of you: aberrations, celestials, dragons, elementals, fey, fiends, and undead. This feature doesn't reveal the creatures' location or number.  
+Once you use this feature, you must finish a short or long rest before you can use it again
+
 ## Background - Archaeologist
 _**Dust Digger.**_ Prior to becoming an adventurer, you spent most of your young life crawling around in the dust, pilfering relics of questionable value from crypts and ruins. Though you managed to sell a few of your discoveries and earn enough coin to buy proper adventuring gear, you have held onto an item that has great emotional value to you. It is a whip, for whipping.  
 _**Feature: Historical Knowledge.**_ When you enter a ruin or dungeon, you can correctly ascertain its original purpose and determine its builders, whether those were dwarves, elves, humans, yuan-ti, or some other known race. In addition, you can determine the monetary value of art objects more than a century old.
