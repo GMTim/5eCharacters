@@ -28,8 +28,8 @@
 > ## Manuevers
 > _Superiority Dice:_ 4d8  
 > _DC:_ 13  
-> _**Disarming Attack:**_ On Hit; Spend 1; Dmg+d8; Str Save or lose held item.  
-> _**Sweeping Attack:**_ On Melee Hit; Spend 1; If hit would hit 2nd target, deal d8 damage.
+> _**Disarming Attack:**_ On Hit; Spend 1; Dmg+d8; `STR Save` or lose held item.  
+> _**Menacing Attack:**_ On Hit; Spend 1; Dmg+d8; `WIS Save` or become [frightened](https://5e.tools/conditionsdiseases.html#frightened_phb).
 >
 > ## Equipment
 > _Carry Capacity_: 510lbs  
