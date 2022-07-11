@@ -2,13 +2,13 @@
 > ## Characteristics
 > |Race|Class|Background|Alignment|Size|Speed|-|HP|AC|
 > |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-> |[Goliath](#race---goliath)|[Ranger/Hunter](#class---rangerhunter)|[Archaeologist](#background---archaeologist)|CG|M|30ft|-|22|14|
+> |[Goliath](#race---goliath)|[Ranger/Hunter](#class---rangerhunter)|[Archaeologist](#background---archaeologist)|CG|M|30ft|-|22|15|
 >
 > ## Stats
 > |STR|DEX|CON|INT|WIS|CHA|
 > |:-:|:-:|:-:|:-:|:-:|:-:|
-> |17 (+3)|10 (0)|10 (0)|15 (+2)|14 (+2)|8 (-1)|
-> |Saving Throw (+5)|Saving Throw (+2)||History (+4)|Survival (+4)||
+> |16 (+3)|12 (+1)|10 (0)|14 (+2)|14 (+2)|8 (-1)|
+> |Saving Throw (+5)|Saving Throw (+3)||History (+4)|Survival (+4)||
 > |Athletics (+5)|||Investigation (+4)|Perception (+6)*|
 > ||||Nature (+4)||
 >
@@ -32,8 +32,8 @@
 > _**Menacing Attack:**_ On Hit; Spend 1; Dmg+d8; `WIS Save` or become [frightened](https://5e.tools/conditionsdiseases.html#frightened_phb).
 >
 > ## Equipment
-> _Carry Capacity_: 510lbs  
-> _Push, Drag, Lift_: 1020lbs
+> _Carry Capacity_: 480lbs  
+> _Push, Drag, Lift_: 960lbs
 > |Container||
 > |:-:|:-:|
 > |Money Pouch|32gp ; 8sp ; 3cp|
