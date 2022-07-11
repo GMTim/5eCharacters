@@ -11,6 +11,7 @@
 > |Saving Throw (+5)|Saving Throw (+2)||History (+4)|Survival (+4)||
 > |Athletics (+5)|||Investigation (+4)|Perception (+6)*|
 > ||||Nature (+4)||
+>
 > _Passive Perception:_ 16
 > 
 > |Weapon|Attack|Damage|Properties|
